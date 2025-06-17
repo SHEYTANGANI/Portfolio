@@ -15,7 +15,7 @@ const About = () => {
           transition={{ duration: 0.6 }}
         >
           <h1 className=" font-serif text-4xl sm:text-5xl font-semibold text-purple-400 dark:text-white leading-relaxed md:leading-loose">
-            Hi, I’m <span className="text-blue-500 font-bold">Shreya</span>,<br />
+            Hi, I’m <span className="text-blue-500 font-bold">Shreytangani</span>,<br />
             and I like to make things that<br />
 
             <TypeAnimation 
